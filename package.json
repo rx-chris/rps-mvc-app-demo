@@ -1,0 +1,32 @@
+{
+  "name": "rps-cli-app-demo",
+  "version": "1.0.0",
+  "description": "rock paper scissors console application demo",
+  "homepage": "https://github.com/rx-chris/rps-cli-app-demo#readme",
+  "bugs": {
+    "url": "https://github.com/rx-chris/rps-cli-app-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rx-chris/rps-cli-app-demo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx ./src/index.ts",
+    "build": "webpack",
+    "dist": "node dist/bundle.cjs"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.15",
+    "ts-loader": "^9.5.2",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3",
+    "webpack": "^5.100.2",
+    "webpack-cli": "^6.0.1"
+  }
+}
