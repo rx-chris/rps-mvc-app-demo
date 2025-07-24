@@ -13,7 +13,7 @@ rock paper scissors console application demo using MVC architecture
 ## Introduction
 ### Player vs Computer
 
-https://github.com/user-attachments/assets/d4631541-440a-46ac-a867-6003ba600f9e
+https://github.com/user-attachments/assets/8f130612-4f44-4824-841b-dd57bc2d1cc9
 
 ### Computer vs Computer
 
