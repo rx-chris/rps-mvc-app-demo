@@ -111,7 +111,7 @@ export class Router {
               this.controller,
               this
             ),
-            displayName: "Computer(You) vs Player",
+            displayName: "Computer(You) vs Computer",
           },
         ],
       },
@@ -137,7 +137,7 @@ export class Router {
         ],
       },
       computer: {
-        query: "Please select a game mode",
+        query: "Select an action",
         actions: [
           {
             key: "p",
